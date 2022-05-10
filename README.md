@@ -1,1 +1,1 @@
-https://xdshnik.github.io/rsschool-cv/cv
+https://xdshnik.github.io/cv-ru/
