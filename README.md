@@ -1,2 +1,1 @@
-# cv-ru
-My CV in Russian
+https://xdshnik.github.io/rsschool-cv/cv
